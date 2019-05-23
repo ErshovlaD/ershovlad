@@ -1,14 +1,10 @@
 ﻿<?php
-$access_token = 'ee9268351d0952cfd081fefd28362ada9c4eba1f18d891445fc325b783d901b4deeadd771b04ae1a5666b';//Токен брать тут u.to/token-vk-dlja-avtostatusa/EnTlBQ
-
-#Устанавливаем свою страну, Украина = Europe/Kiev  | Россия = Europe/Moscow
-#Дальше я не знаю:)
+$access_token = 'ee9268351d0952cfd081fefd28362ada9c4eba1f18d891445fc325b783d901b4deeadd771b04ae1a5666b';
 
 $status = "test";
 
 $statusSet = curl('https://api.vk.com/method/status.set?text='.urlencode($status).'&v=3.0&access_token='.$access_token);
 
-#Курлик курлик KO KO KO xD
 function curl( $url ){
 $ch = curl_init( $url );
 curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
@@ -18,5 +14,4 @@ $response = curl_exec( $ch );
 curl_close( $ch );
 return $response;
 }
-#Создатель скрипта не я. vk.com/Almazik2015
 ?>

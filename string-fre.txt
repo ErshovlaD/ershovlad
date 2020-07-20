@@ -2,7 +2,7 @@
 
     <string id="AppName">EVV 455</string>
 
-    <string id="ShowSecondsTitle">Affichage des Secondes</string>
+    <string id="ShowSecondsTitle">Affichage des secondes</string>
     <string id="DoNotShow">Ne rien afficher</string>
     <string id="ShowStepsTitle">Pas</string>
     <string id="ShowAlarmTitle">Info Alarme</string>
@@ -10,7 +10,7 @@
     <string id="ShowLicenseTitle">Statut licence</string>
     <string id="TwelveHoursTitle">Format 12-heures</string>
     <string id="ShowAmPmTitle">AM/PM</string>
-    <string id="LeadZeroTitle">Affichage du 0 devant heure</string>
+    <string id="LeadZeroTitle">Affichage du zéro devant heure</string>
     <string id="ShowTimeStampTitle">Heure de dernière maj météo</string>
     <string id="ShowPosStampTitle">Affichage ville de synchro GPS</string>
     <string id="ShowConnectStatusTitle">Indication de la connection au smartphone (point bleu)</string>
@@ -20,7 +20,7 @@
     <string id="UpRightFieldTitle">Affichage Information en haut à droite</string>
     
     <string id="WeekViewTitle">Format d'affichage du jour de la semaine</string>
-    <string id="WeekDefault">Par Défaut</string>
+    <string id="WeekDefault">Par défaut</string>
     <string id="WeekTwoLetters">Affichage condensé à deux lettres</string>
     <string id="WeekThreeLetters">Affichage condensé à trois lettres</string>
     <string id="DotWeek">Affichage analogique avec des points</string>
@@ -32,10 +32,10 @@
     <string id="TempDefault">Température réelle</string>
     <string id="TempFeelsLike">Température ressentie</string>
     
-    <string id="LocationTitle">Positionnement par Défaut</string>
-    <string id="UsePositionTitle">Utiliser la position GPS pour la météto</string>
+    <string id="LocationTitle">Positionnement par défaut</string>
+    <string id="UsePositionTitle">Utiliser la position GPS pour la météo</string>
     <string id="WeatherLocationPrompt">Paris</string>
-    <string id="howOftenTitle">Fréquence de mise à jour de la météo ? (Au déla de 5 minutes)</string>
+    <string id="howOftenTitle">Fréquence de mise à jour de la météo ? (Au-delà de 5 minutes)</string>
     
     <string id="January">Janvier</string>
     <string id="February">Février</string>
@@ -48,7 +48,7 @@
     <string id="September">Septembre</string>
     <string id="October">Octobre</string>
     <string id="November">Novembre</string>
-    <string id="December">Décembre</string>
+    <string id="December">"Décembre"</string>
     
     <string id="AbbrJanuary">Jan</string>
     <string id="AbbrFebruary">Fév</string>

@@ -1,0 +1,98 @@
+<strings>
+
+    <string id="AppName">EVV 455</string>
+
+    <string id="ShowSecondsTitle">Affichage des secondes</string>
+    <string id="DoNotShow">Ne rien afficher</string>
+    <string id="ShowStepsTitle">Pas</string>
+    <string id="ShowAlarmTitle">Info Alarme</string>
+    <string id="ShowHRTitle">HR</string>
+    <string id="ShowLicenseTitle">Statut licence</string>
+    <string id="TwelveHoursTitle">Format 12-heures</string>
+    <string id="ShowAmPmTitle">AM/PM</string>
+    <string id="LeadZeroTitle">Affichage du zéro devant heure</string>
+    <string id="ShowTimeStampTitle">Heure de dernière maj météo</string>
+    <string id="ShowPosStampTitle">Affichage ville de synchro GPS</string>
+    <string id="ShowConnectStatusTitle">Indication de la connection au smartphone (point bleu)</string>
+    <string id="ShowNotifyStatusTitle">Indication notification non lu (point orange)</string>
+    <string id="ApiKeyForWeatherTitle">Clé API météo</string>
+    <string id="UseFahrTitle">Température en degré Fahrenheit (sinon en degré Celsius par défaut)</string>
+    <string id="UpRightFieldTitle">Affichage Information en haut à droite</string>
+    
+    <string id="WeekViewTitle">Format d'affichage du jour de la semaine</string>
+    <string id="WeekDefault">Par défaut</string>
+    <string id="WeekTwoLetters">Affichage condensé à deux lettres</string>
+    <string id="WeekThreeLetters">Affichage condensé à trois lettres</string>
+    <string id="DotWeek">Affichage analogique avec des points</string>
+    <string id="MonthViewTitle">Format d'affichage du mois</string>
+    <string id="MonthDefault">Par défaut</string>
+    <string id="MonthThreeLetters">Affichage condensé à trois lettres</string>
+    <string id="BatteryNoticeTitle">L'anneau indicateur de charge de la Batterie sera rouge, passé ce chiffre jusqu'à décharge complète</string>
+    <string id="TempFormTitle">Quelle température doit être indiquée ?</string>
+    <string id="TempDefault">Température réelle</string>
+    <string id="TempFeelsLike">Température ressentie</string>
+    
+    <string id="LocationTitle">Positionnement par défaut</string>
+    <string id="UsePositionTitle">Utiliser la position GPS pour la météo</string>
+    <string id="WeatherLocationPrompt">Paris</string>
+    <string id="howOftenTitle">Fréquence de mise à jour de la météo ? (Au-delà de 5 minutes)</string>
+    
+    <string id="January">Janvier</string>
+    <string id="February">Février</string>
+    <string id="March">Mars</string>
+    <string id="April">Avril</string>
+    <string id="May">Mai</string>
+    <string id="June">Juin</string>
+    <string id="July">Juillet</string>
+    <string id="August">Août</string> 
+    <string id="September">Septembre</string>
+    <string id="October">Octobre</string>
+    <string id="November">Novembre</string>
+    <string id="December">"Décembre"</string>
+    
+    <string id="AbbrJanuary">Jan</string>
+    <string id="AbbrFebruary">Fév</string>
+    <string id="AbbrMarch">Mar</string>
+    <string id="AbbrApril">Avr</string>
+    <string id="AbbrMay">Mai</string>
+    <string id="AbbrJune">Jun</string>
+    <string id="AbbrJuly">Jul</string>
+    <string id="AbbrAugust">Aoû</string>
+    <string id="AbbrSeptember">Sep</string>
+    <string id="AbbrOctober">Oct</string>
+    <string id="AbbrNovember">Nov</string>
+    <string id="AbbrDecember">Déc</string>
+    
+    <string id="Monday">Lundi</string>
+    <string id="Tuesday">Mardi</string>
+    <string id="Wednesday">Mercredi</string>
+    <string id="Thursday">Jeudi</string>
+    <string id="Friday">Vendredi</string>
+    <string id="Saturday">Samedi</string>
+    <string id="Sunday">Dimanche</string>
+    
+    <string id="MondayThree">LUN</string>
+    <string id="TuesdayThree">MAR</string>
+    <string id="WednesdayThree">MER</string>
+    <string id="ThursdayThree">JEU</string>
+    <string id="FridayThree">VEN</string>
+    <string id="SaturdayThree">SAM</string>
+    <string id="SundayThree">DIM</string>
+    
+    <string id="MondayTwo">LU</string>
+    <string id="TuesdayTwo">MA</string>
+    <string id="WednesdayTwo">ME</string>
+    <string id="ThursdayTwo">JE</string>
+    <string id="FridayTwo">VE</string>
+    <string id="SaturdayTwo">SA</string>
+    <string id="SundayTwo">DI</string>
+    
+    <string id="TrialIsExpired">Temp d'essai expiré.\n Merci d'acquérir un code d'activation\ne r s h o v l a d @ m a i l . r u\nershovlad @ gmail.com</string>
+
+	<string id="PasswordTitle">Votre adresse Mail ou Identifiant</string>
+    <string id="PasswordPrompt">exemple@gmail.com</string>
+    <string id="ActivatingCodeTitle">Code d'Activation envoyé par le développeur</string>
+    <string id="ActivatingCodePrompt">e0x1a2m3p4l5e6f7o8r9y0o1r2a8c8a8a9a8a7a6</string>
+    <string id="ForcedRussianTitle">Forcer l'utilisation de la langue Russe</string>
+    
+</strings>
